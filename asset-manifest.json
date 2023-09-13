@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e063cdbb.chunk.css",
-    "main.js": "/static/js/main.93d53baa.chunk.js",
-    "main.js.map": "/static/js/main.93d53baa.chunk.js.map",
+    "main.js": "/static/js/main.e3f2f62a.chunk.js",
+    "main.js.map": "/static/js/main.e3f2f62a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f5cfbed7.js",
     "runtime-main.js.map": "/static/js/runtime-main.f5cfbed7.js.map",
     "static/css/2.db44c697.chunk.css": "/static/css/2.db44c697.chunk.css",
-    "static/js/2.4f5ff7b9.chunk.js": "/static/js/2.4f5ff7b9.chunk.js",
-    "static/js/2.4f5ff7b9.chunk.js.map": "/static/js/2.4f5ff7b9.chunk.js.map",
+    "static/js/2.11099083.chunk.js": "/static/js/2.11099083.chunk.js",
+    "static/js/2.11099083.chunk.js.map": "/static/js/2.11099083.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.db44c697.chunk.css.map": "/static/css/2.db44c697.chunk.css.map",
     "static/css/main.e063cdbb.chunk.css.map": "/static/css/main.e063cdbb.chunk.css.map",
-    "static/js/2.4f5ff7b9.chunk.js.LICENSE.txt": "/static/js/2.4f5ff7b9.chunk.js.LICENSE.txt",
+    "static/js/2.11099083.chunk.js.LICENSE.txt": "/static/js/2.11099083.chunk.js.LICENSE.txt",
     "static/media/homePage.scss": "/static/media/background-homePage2.15cff2ab.gif",
     "static/media/aboutPage.scss": "/static/media/background-aboutPage.68fcc540.jpg",
     "static/media/titlePage.scss": "/static/media/background-homePage.cb46a65a.gif",
@@ -33,10 +33,10 @@
     "static/media/lboroLib-screenshot-booksPage.c813f2a5.gif": "/static/media/lboroLib-screenshot-booksPage.c813f2a5.gif",
     "static/media/lboroLib-screenshot-homePage.2c1ae043.png": "/static/media/lboroLib-screenshot-homePage.2c1ae043.png",
     "static/media/lboroLib-screenshot-loanManagerPage.5d7c417c.gif": "/static/media/lboroLib-screenshot-loanManagerPage.5d7c417c.gif",
-    "static/media/powV2-screenshot-heroBattle.8123dde8.gif": "/static/media/powV2-screenshot-heroBattle.8123dde8.gif",
-    "static/media/powV2-screenshot-homePage.e955b42e.gif": "/static/media/powV2-screenshot-homePage.e955b42e.gif",
-    "static/media/powV2-screenshot-markplacePage.afa2ee4b.gif": "/static/media/powV2-screenshot-markplacePage.afa2ee4b.gif",
-    "static/media/powV2-screenshot-profilePage.50e247ee.png": "/static/media/powV2-screenshot-profilePage.50e247ee.png",
+    "static/media/newsgpt-screenshot-analysisSection.430e5670.png": "/static/media/newsgpt-screenshot-analysisSection.430e5670.png",
+    "static/media/newsgpt-screenshot-editorialSection.57150857.png": "/static/media/newsgpt-screenshot-editorialSection.57150857.png",
+    "static/media/newsgpt-screenshot-keywordsSection.cfc9c3be.png": "/static/media/newsgpt-screenshot-keywordsSection.cfc9c3be.png",
+    "static/media/newsgpt-screenshot-newsbotSection.3f06de8e.gif": "/static/media/newsgpt-screenshot-newsbotSection.3f06de8e.gif",
     "static/media/spaceInvaders-screenshot-gameplay.c0664abd.gif": "/static/media/spaceInvaders-screenshot-gameplay.c0664abd.gif",
     "static/media/spaceInvaders-screenshot-homepage.0ba8d34d.png": "/static/media/spaceInvaders-screenshot-homepage.0ba8d34d.png",
     "static/media/spaceInvaders-screenshot-titlepage.0080229a.png": "/static/media/spaceInvaders-screenshot-titlepage.0080229a.png",
@@ -49,8 +49,8 @@
   "entrypoints": [
     "static/js/runtime-main.f5cfbed7.js",
     "static/css/2.db44c697.chunk.css",
-    "static/js/2.4f5ff7b9.chunk.js",
+    "static/js/2.11099083.chunk.js",
     "static/css/main.e063cdbb.chunk.css",
-    "static/js/main.93d53baa.chunk.js"
+    "static/js/main.e3f2f62a.chunk.js"
   ]
 }
